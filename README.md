@@ -10,8 +10,8 @@ Hi,
 ... also sometimes, have fun on learning path.
 - 😄 Pronouns: He/him
 - Also, not a native english speaker;
-
 - I hope somes of the program could be used and/or made better by other people, so here it is.
 
   Good day to you everyone,
-  progForAnim
+  
+  progForAnim :)
